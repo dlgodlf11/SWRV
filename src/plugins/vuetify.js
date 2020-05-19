@@ -4,10 +4,10 @@ const vuetify = new Vuetify({
   theme: {
     themes: {
       light: {
-        one: "#a5e65a",
-        two: "#5f7174",
+        one: "#97c842",
+        two: "#e1f3c2",
         three: "#ffffff",
-        error: "#FF5252",
+        four: "#424242",
         info: "#2196F3",
         success: "#4CAF50",
         warning: "#FFC107",
